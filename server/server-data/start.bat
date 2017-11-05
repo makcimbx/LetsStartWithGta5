@@ -1,1 +1,1 @@
-C:\GtaModding\LetsStartWithGta5\server\run.cmd +exec server.cfg
+D:\LetsStartWithGta5\server\run.cmd +exec server.cfg
