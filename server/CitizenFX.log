@@ -153,3 +153,36 @@
 [    752531] Sending heartbeat to live-internal.fivem.net:30110
 [    752531] Started resource fivem-map-hipster
 [    752531] Started map fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        62] Found new resource fivem in D:/LetsStartWithGta5\server\server-data/resources//fivem
+[        62] Found new resource fivem-awesome1501 in D:/LetsStartWithGta5\server\server-data/resources//fivem-awesome1501
+[        62] Found new resource fivem-map-hipster in D:/LetsStartWithGta5\server\server-data/resources//fivem-map-hipster
+[        62] Found new resource fivem-map-skater in D:/LetsStartWithGta5\server\server-data/resources//fivem-map-skater
+[        62] Found new resource runcode in D:/LetsStartWithGta5\server\server-data/resources//runcode
+[        62] Found new resource race in D:/LetsStartWithGta5\server\server-data/resources//[gamemodes]/race
+[        78] Found new resource race-test in D:/LetsStartWithGta5\server\server-data/resources//[gamemodes]/race-test
+[        78] Found new resource channelfeed in D:/LetsStartWithGta5\server\server-data/resources//[gameplay]/channelfeed
+[        78] Found new resource irc in D:/LetsStartWithGta5\server\server-data/resources//[gameplay]/irc
+[        78] Found new resource obituary in D:/LetsStartWithGta5\server\server-data/resources//[gameplay]/obituary
+[        78] Found new resource obituary-deaths in D:/LetsStartWithGta5\server\server-data/resources//[gameplay]/obituary-deaths
+[        78] Found new resource playernames in D:/LetsStartWithGta5\server\server-data/resources//[gameplay]/playernames
+[        78] Found new resource mapmanager in D:/LetsStartWithGta5\server\server-data/resources//[managers]/mapmanager
+[        78] Found new resource baseevents in D:/LetsStartWithGta5\server\server-data/resources//[system]/baseevents
+[        94] Found new resource chat in D:/LetsStartWithGta5\server\server-data/resources//[system]/chat
+[        94] Found new resource hardcap in D:/LetsStartWithGta5\server\server-data/resources//[system]/hardcap
+[        94] Found new resource rconlog in D:/LetsStartWithGta5\server\server-data/resources//[system]/rconlog
+[        94] Found new resource scoreboard in D:/LetsStartWithGta5\server\server-data/resources//[system]/scoreboard
+[        94] Found new resource sessionmanager in D:/LetsStartWithGta5\server\server-data/resources//[system]/sessionmanager
+[       109] Found new resource spawnmanager in D:/LetsStartWithGta5\server\server-data/resources//[system]/spawnmanager
+[       109] Found new resource betaguns in D:/LetsStartWithGta5\server\server-data/resources//[test]/betaguns
+[       109] Found new resource gameInit in D:/LetsStartWithGta5\server\server-data/resources//[test]/gameInit
+[       109] Found new resource keks in D:/LetsStartWithGta5\server\server-data/resources//[test]/keks
+[       125] GlobalError: Failed to create environment, hresult 80070002
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] ^3Couldn't find resource sessionmanager.^7
+[       141] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[       141] Sending heartbeat to live-internal.fivem.net:30110

@@ -1,3 +1,5 @@
 server/server-data/cache
+ever/server-data/cache
 *.log
 server/CitizenFX.log
+ever/CitizenFX.log
