@@ -73,3 +73,83 @@
 [      5750] Sending heartbeat to live-internal.fivem.net:30110
 [      5766] Started resource fivem-map-hipster
 [      5766] Started map fivem-map-hipster
+[    681531] Initializing Mono
+[    681547] Initializing Mono completed
+[    681547] Hello!
+[    681594] Found new resource fivem in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem
+[    681609] Found new resource fivem-awesome1501 in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem-awesome1501
+[    681609] Found new resource fivem-map-hipster in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem-map-hipster
+[    681609] Found new resource fivem-map-skater in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem-map-skater
+[    681609] Found new resource runcode in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//runcode
+[    681609] Found new resource race in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gamemodes]/race
+[    681625] Found new resource race-test in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gamemodes]/race-test
+[    681625] Found new resource channelfeed in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/channelfeed
+[    681625] Found new resource irc in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/irc
+[    681625] Found new resource obituary in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/obituary
+[    681640] Found new resource obituary-deaths in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/obituary-deaths
+[    681640] Found new resource playernames in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/playernames
+[    681640] Found new resource mapmanager in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[managers]/mapmanager
+[    681640] Found new resource baseevents in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/baseevents
+[    681640] Found new resource chat in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/chat
+[    681640] Found new resource hardcap in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/hardcap
+[    681656] Found new resource rconlog in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/rconlog
+[    681656] Found new resource scoreboard in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/scoreboard
+[    681656] Found new resource sessionmanager in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/sessionmanager
+[    681656] Found new resource spawnmanager in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/spawnmanager
+[    681656] Found new resource betaguns in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[test]/betaguns
+[    681672] Found new resource gameInit in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[test]/gameInit
+[    681672] Found new resource keks in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[test]/keks
+[    681687] Started resource sessionmanager
+[    681703] Started resource mapmanager
+[    681719] Started resource chat
+[    681719] Started resource spawnmanager
+[    681719] Started resource fivem
+[    681719] Started gametype Freeroam
+[    681719] Started resource hardcap
+[    681734] Started resource rconlog
+[    681734] Started resource scoreboard
+[    681734] Started resource playernames
+[    681844] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    681844] Sending heartbeat to live-internal.fivem.net:30110
+[    681859] Started resource fivem-map-skater
+[    681859] Started map fivem-map-skater
+[    752281] Initializing Mono
+[    752281] Initializing Mono completed
+[    752297] Hello!
+[    752344] Found new resource fivem in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem
+[    752344] Found new resource fivem-awesome1501 in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem-awesome1501
+[    752359] Found new resource fivem-map-hipster in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem-map-hipster
+[    752359] Found new resource fivem-map-skater in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//fivem-map-skater
+[    752359] Found new resource runcode in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//runcode
+[    752359] Found new resource race in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gamemodes]/race
+[    752359] Found new resource race-test in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gamemodes]/race-test
+[    752359] Found new resource channelfeed in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/channelfeed
+[    752375] Found new resource irc in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/irc
+[    752375] Found new resource obituary in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/obituary
+[    752375] Found new resource obituary-deaths in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/obituary-deaths
+[    752375] Found new resource playernames in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[gameplay]/playernames
+[    752375] Found new resource mapmanager in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[managers]/mapmanager
+[    752390] Found new resource baseevents in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/baseevents
+[    752390] Found new resource chat in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/chat
+[    752390] Found new resource hardcap in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/hardcap
+[    752390] Found new resource rconlog in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/rconlog
+[    752390] Found new resource scoreboard in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/scoreboard
+[    752390] Found new resource sessionmanager in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/sessionmanager
+[    752406] Found new resource spawnmanager in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[system]/spawnmanager
+[    752406] Found new resource betaguns in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[test]/betaguns
+[    752406] Found new resource gameInit in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[test]/gameInit
+[    752406] Found new resource keks in C:/GtaModding\LetsStartWithGta5\server\server-data/resources//[test]/keks
+[    752437] Started resource sessionmanager
+[    752437] Started resource mapmanager
+[    752453] Started resource chat
+[    752453] Started resource spawnmanager
+[    752453] Started resource fivem
+[    752453] Started gametype Freeroam
+[    752453] Started resource hardcap
+[    752469] Started resource rconlog
+[    752469] Started resource scoreboard
+[    752469] Started resource playernames
+[    752531] Resolved live-internal.fivem.net:30110 to 151.80.44.223:30110
+[    752531] Sending heartbeat to live-internal.fivem.net:30110
+[    752531] Started resource fivem-map-hipster
+[    752531] Started map fivem-map-hipster
