@@ -1,0 +1,7 @@
+RegisterNetEvent('SetHealth')
+AddEventHandler('SetHealth', function(health)
+     local ped = GetPlayerPed(-1)
+     SetPedMaxHealth(ped, tonumber(health))
+	 SetEntityHealth(ped, tonumber(health))
+	 TriggerEvent('chatMessage','Server', {125,125,255}, GetEntityHealth(ped))
+end)

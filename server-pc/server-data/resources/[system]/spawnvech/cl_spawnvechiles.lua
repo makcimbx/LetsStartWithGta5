@@ -1,4 +1,5 @@
 RegisterNetEvent('myEvent')
+
 AddEventHandler('myEvent', function(vech)
 
     local hash = GetHashKey(vech)
