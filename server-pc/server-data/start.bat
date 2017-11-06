@@ -1,0 +1,1 @@
+%~dp0..\run.cmd +exec server.cfg

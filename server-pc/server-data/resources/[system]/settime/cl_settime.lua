@@ -1,0 +1,6 @@
+RegisterNetEvent('SetTimeEvent')
+AddEventHandler('SetTimeEvent', function(hour)
+	 SetClockTime(hour, 0, 0)
+	 Citizen.Wait(2000)
+     NetworkOverrideClockTime(hour, 0, 0)
+end)
