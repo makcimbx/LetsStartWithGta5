@@ -1,4 +1,5 @@
 RegisterNetEvent('myEvent')
+
 AddEventHandler('myEvent', function(vech)
 
     local hash = GetHashKey(vech)
@@ -10,3 +11,4 @@ AddEventHandler('myEvent', function(vech)
     end
     local vehicle = CreateVehicle(hash, x + 2, y + 2, z + 1, 0.0, true, false)
 end)
+
